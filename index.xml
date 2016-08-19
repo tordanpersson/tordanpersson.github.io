@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beautiful Hugo</title>
+    <link>https://tordanpersson.github.io/</link>
+    <description>Recent content on Beautiful Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Fri, 19 Aug 2016 13:12:33 +0000</lastBuildDate>
+    <atom:link href="https://tordanpersson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://tordanpersson.github.io/post/firstpost/</link>
+      <pubDate>Fri, 19 Aug 2016 13:12:33 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://tordanpersson.github.io/post/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;first-post:f779394c000b834c435e35a4c53a5ecd&#34;&gt;First post&lt;/h1&gt;
+
+&lt;p&gt;Now we write!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
