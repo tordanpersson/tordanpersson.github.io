@@ -1,15 +1,204 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tordanpersson.github.io/kontakt/hitta-hit/</loc>
+    <lastmod>2018-04-08T09:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/kontakt/</loc>
+    <lastmod>2018-04-08T09:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/begravningsform/</loc>
+    <lastmod>2018-03-12T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/att-se-den-doede/</loc>
+    <lastmod>2018-03-11T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/ceremonin/</loc>
+    <lastmod>2018-03-10T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/tiden-efter/</loc>
+    <lastmod>2018-03-09T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/kremationsbegravning/</loc>
+    <lastmod>2018-03-08T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/juridik/bouppteckningar/</loc>
+    <lastmod>2018-03-07T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/om-oss/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/vad-goer-jag-nu/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/om-oss/rekommendationer/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/juridik/testamente/</loc>
+    <lastmod>2018-03-06T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/doedsfallet/</loc>
+    <lastmod>2018-03-06T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/juridik/min-sista-vilja/</loc>
+    <lastmod>2018-03-05T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/det-praktiska/</loc>
+    <lastmod>2018-03-05T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningen/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/priser/kistor/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/gravstenar/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/juridik/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/priser/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/partners/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/priser/urnor/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningsentrepenoer-stockholm/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningar-stockholm/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/begravningskista/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/billig-begravningsbyra/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://tordanpersson.github.io/</loc>
-    <lastmod>2016-08-19T13:12:33+00:00</lastmod>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/401/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/categories/begravningen/</loc>
+    <lastmod>2018-03-07T09:17:17-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tordanpersson.github.io/post/firstpost/</loc>
-    <lastmod>2016-08-19T13:12:33+00:00</lastmod>
+    <loc>https://tordanpersson.github.io/tags/bulma/</loc>
+    <lastmod>2018-03-12T02:16:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/categories/</loc>
+    <lastmod>2018-03-07T09:17:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/categories/hugo/</loc>
+    <lastmod>2018-03-12T02:16:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/tags/iot/</loc>
+    <lastmod>2018-03-07T09:17:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/categories/juridik/</loc>
+    <lastmod>2018-03-05T09:17:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/tags/recycling/</loc>
+    <lastmod>2018-03-07T09:17:17-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/tags/</loc>
+    <lastmod>2018-03-12T02:16:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tordanpersson.github.io/tags/theme/</loc>
+    <lastmod>2018-03-12T02:16:58-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
