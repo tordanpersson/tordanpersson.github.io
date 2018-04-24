@@ -26,6 +26,17 @@ e-post: abcbegravning@gmail.com
   </entry>
 	
   <entry>
+	<title>Kontaktformulär</title>
+    <link href="https://tordanpersson.github.io/kontakt/kontaktformular/"/>
+	<id>https://tordanpersson.github.io/kontakt/kontaktformular/</id>
+    <published>2018-04-24T23:32:37+02:00</published>
+    <updated>2018-04-24T23:32:37+02:00</updated>
+	<content type="html"><![CDATA[
+Från      Ämne      Meddelande        Skicka meddelande       
+]]></content>
+  </entry>
+	
+  <entry>
 	<title>Begravningsform</title>
     <link href="https://tordanpersson.github.io/begravningen/begravningsform/"/>
 	<id>https://tordanpersson.github.io/begravningen/begravningsform/</id>
