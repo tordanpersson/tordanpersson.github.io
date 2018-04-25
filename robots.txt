@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /secretloginpage
 
-Sitemap: https://tordanpersson.github.io/sitemap.xml
+Sitemap: https://abclillabegravningsbyr%C3%A5n.se/sitemap.xml
