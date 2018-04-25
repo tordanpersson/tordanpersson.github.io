@@ -1,19 +1,19 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>En begravningsbyrå i Stockholm för dig on ABC Lilla Begravningsbyrån</title>
-	<link href="https://abclillabegravningsbyr%C3%A5n.se/atom.xml" rel="self"/>
-	<link href="https://abclillabegravningsbyr%C3%A5n.se/"/>
+	<link href="http://abclillabegravningsbyr%C3%A5n.se/atom.xml" rel="self"/>
+	<link href="http://abclillabegravningsbyr%C3%A5n.se/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
 	<updated>2018-03-01T00:00:00+00:00</updated>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/</id>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/</id>
 	<author>
 		<name>ABC Lilla Begravningsbyrån AB</name>
 		<email>abcbegravning@gmail.com</email>
 	</author>
   <entry>
 	<title>Hitta hit</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/kontakt/hitta-hit/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/kontakt/hitta-hit/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/kontakt/hitta-hit/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/kontakt/hitta-hit/</id>
     <published>2018-04-08T09:16:58-08:00</published>
     <updated>2018-04-08T09:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -27,8 +27,8 @@ e-post: abcbegravning@gmail.com
 	
   <entry>
 	<title>Kontaktformulär</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/kontakt/kontaktformular/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/kontakt/kontaktformular/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/kontakt/kontaktformular/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/kontakt/kontaktformular/</id>
     <published>2018-04-24T23:32:37+02:00</published>
     <updated>2018-04-24T23:32:37+02:00</updated>
 	<content type="html"><![CDATA[
@@ -38,8 +38,8 @@ Från      Ämne      Meddelande        Skicka meddelande
 	
   <entry>
 	<title>Begravningsform</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/begravningsform/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/begravningsform/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/begravningsform/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/begravningsform/</id>
     <published>2018-03-12T02:16:58-08:00</published>
     <updated>2018-03-12T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -49,8 +49,8 @@ Kyrklig begravning är den begravningsceremoni som majoriteten av dem som avlide
 	
   <entry>
 	<title>Att se den avlidne, visning</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/att-se-den-doede/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/att-se-den-doede/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/att-se-den-doede/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/att-se-den-doede/</id>
     <published>2018-03-11T00:00:00-08:00</published>
     <updated>2018-03-11T00:00:00-08:00</updated>
 	<content type="html"><![CDATA[
@@ -60,8 +60,8 @@ Om Ni så önskar kan ni givetvis ta farväl av den avlidne genom att vi på ABC
 	
   <entry>
 	<title>Ceremonin</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/ceremonin/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/ceremonin/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/ceremonin/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/ceremonin/</id>
     <published>2018-03-10T02:16:58-08:00</published>
     <updated>2018-03-10T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -71,8 +71,8 @@ Vi på ABC Lilla begravningsbyrå anländer alltid en timme innan tidpunkt för 
 	
   <entry>
 	<title>Vad händer efter begravningen?</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/tiden-efter/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/tiden-efter/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/tiden-efter/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/tiden-efter/</id>
     <published>2018-03-09T02:16:58-08:00</published>
     <updated>2018-03-09T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -82,8 +82,8 @@ När väl begravningen är genomförd och när det gäller kremationsbegravning 
 	
   <entry>
 	<title>Kremationsbegravning</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/kremationsbegravning/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/kremationsbegravning/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/kremationsbegravning/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/kremationsbegravning/</id>
     <published>2018-03-08T02:16:58-08:00</published>
     <updated>2018-03-08T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -93,8 +93,8 @@ Efter begravningsceremonin körs kistan till krematoriet av ABC Lilla begravning
 	
   <entry>
 	<title>Bouppteckningar</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/juridik/bouppteckningar/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/juridik/bouppteckningar/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/juridik/bouppteckningar/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/juridik/bouppteckningar/</id>
     <published>2018-03-07T09:17:17-08:00</published>
     <updated>2018-03-07T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -104,8 +104,8 @@ Vi hjälper dig med bouppteckningar, grundpriset är 5.690 kr. Om det tar längr
 	
   <entry>
 	<title>Vad gör jag nu?</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/vad-goer-jag-nu/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/vad-goer-jag-nu/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/vad-goer-jag-nu/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/vad-goer-jag-nu/</id>
     <published>2018-03-07T02:16:58-08:00</published>
     <updated>2018-03-07T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -115,8 +115,8 @@ Den vanligaste uppmaningen man får när någon har gått bort, är att ta det l
 	
   <entry>
 	<title>Rekommendationer</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/om-oss/rekommendationer/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/om-oss/rekommendationer/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/om-oss/rekommendationer/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/om-oss/rekommendationer/</id>
     <published>2018-03-07T00:00:00+00:00</published>
     <updated>2018-03-07T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -127,8 +127,8 @@ Vi hoppas kunna göra begravningen till ett vackert minne av en anhörig eller n
 	
   <entry>
 	<title>Testamente</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/juridik/testamente/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/juridik/testamente/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/juridik/testamente/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/juridik/testamente/</id>
     <published>2018-03-06T09:17:17-08:00</published>
     <updated>2018-03-06T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -139,8 +139,8 @@ Tillgångarna minus skulderna i dödsboet skall fördelas till arvingarna och d�
 	
   <entry>
 	<title>Dödsfallet</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/doedsfallet/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/doedsfallet/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/doedsfallet/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/doedsfallet/</id>
     <published>2018-03-06T02:16:58-08:00</published>
     <updated>2018-03-06T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -150,8 +150,8 @@ Att förlora en anhörig eller en nära vän kan vara bland det mest omvälvande
 	
   <entry>
 	<title>Brommakontoret vid Brommaplan, Stopvägen 78</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/</id>
     <published>2018-03-06T00:00:00+00:00</published>
     <updated>2018-03-06T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -162,8 +162,8 @@ ABC lilla begravningsbyrån bildades när Eaststoone&rsquo;s lilla begravningsby
 	
   <entry>
 	<title>Min sista vilja</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/juridik/min-sista-vilja/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/juridik/min-sista-vilja/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/juridik/min-sista-vilja/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/juridik/min-sista-vilja/</id>
     <published>2018-03-05T09:17:17-08:00</published>
     <updated>2018-03-05T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -173,8 +173,8 @@ Här kan du ladda ner min sista vilja, ett dokument som underlättar för dina n
 	
   <entry>
 	<title>Det praktiska</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningen/det-praktiska/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningen/det-praktiska/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningen/det-praktiska/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningen/det-praktiska/</id>
     <published>2018-03-05T02:16:58-08:00</published>
     <updated>2018-03-05T02:16:58-08:00</updated>
 	<content type="html"><![CDATA[
@@ -184,8 +184,8 @@ Att tänka på vid ett dödsfall  Kontakta hyresvärd eller bostadsrättsföreni
 	
   <entry>
 	<title>Begravningskistor</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/priser/kistor/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/priser/kistor/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/priser/kistor/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/priser/kistor/</id>
     <published>2018-03-03T09:17:17-08:00</published>
     <updated>2018-03-03T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -195,8 +195,8 @@ När du beställer en kremationsbegravning det vill säga en begravning med efte
 	
   <entry>
 	<title>Urnor</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/priser/urnor/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/priser/urnor/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/priser/urnor/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/priser/urnor/</id>
     <published>2018-03-03T09:17:17-08:00</published>
     <updated>2018-03-03T09:17:17-08:00</updated>
 	<content type="html"><![CDATA[
@@ -206,8 +206,8 @@ Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billi
 	
   <entry>
 	<title>ABC Lilla begravningsbyrån, begravningsentreprenör Stockholm</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningsentrepenoer-stockholm/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningsentrepenoer-stockholm/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningsentrepenoer-stockholm/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningsentrepenoer-stockholm/</id>
     <published>2018-03-01T00:00:00+00:00</published>
     <updated>2018-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -218,8 +218,8 @@ Båda företagen hade en önskan om att kunna hjälpa människor i en svår tid,
 	
   <entry>
 	<title>Begravningar Stockholm</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningar-stockholm/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningar-stockholm/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningar-stockholm/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningar-stockholm/</id>
     <published>2018-03-01T00:00:00+00:00</published>
     <updated>2018-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -229,8 +229,8 @@ ABC Lilla begravningsbyrån AB i Stockholm Vackert Värdigt Prisvärt Har du fö
 	
   <entry>
 	<title>Begravningskista</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/begravningskista/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/begravningskista/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/begravningskista/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/begravningskista/</id>
     <published>2018-03-01T00:00:00+00:00</published>
     <updated>2018-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -241,8 +241,8 @@ Båda företagen hade en önskan om att kunna hjälpa människor i en svår tid,
 	
   <entry>
 	<title>Billig begravningsbyrå</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/billig-begravningsbyra/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/billig-begravningsbyra/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/billig-begravningsbyra/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/billig-begravningsbyra/</id>
     <published>2018-03-01T00:00:00+00:00</published>
     <updated>2018-03-01T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
@@ -252,8 +252,8 @@ ABC Lilla begravningsbyrån AB Vacker Värdigt Prisvärt en billig begravningsby
 	
   <entry>
 	<title>401 Unauthorized</title>
-    <link href="https://abclillabegravningsbyr%C3%A5n.se/401/"/>
-	<id>https://abclillabegravningsbyr%C3%A5n.se/401/</id>
+    <link href="http://abclillabegravningsbyr%C3%A5n.se/401/"/>
+	<id>http://abclillabegravningsbyr%C3%A5n.se/401/</id>
     <published>2017-03-23T00:00:00+00:00</published>
     <updated>2017-03-23T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
