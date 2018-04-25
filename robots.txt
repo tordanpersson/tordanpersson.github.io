@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /secretloginpage
 
-Sitemap: https://abclillabegravningsbyr%C3%A5n.se/sitemap.xml
+Sitemap: https://xn--abclillabegravningsbyrn-58b.se/sitemap.xml
