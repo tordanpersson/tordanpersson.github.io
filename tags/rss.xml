@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ABC Lilla Begravningsbyrån</title>
+    <link>https://xn--abclillabegravningsbyrn-58b.se/tags/</link>
+    <description>Recent content in Tags on ABC Lilla Begravningsbyrån</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <managingEditor>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</managingEditor>
+    <webMaster>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</webMaster>
+    <copyright>&amp;copy; ABC Lilla Begravningsbyrån AB 2018, ABC Lilla begravningsbyrån AB, Skönviksvägen 244, 122 42 Enskede, tel 08-648 76 55</copyright>
+    <lastBuildDate>Mon, 12 Mar 2018 02:16:58 -0800</lastBuildDate>
+    
+	<atom:link href="https://xn--abclillabegravningsbyrn-58b.se/tags/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bulma</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/tags/bulma/</link>
+      <pubDate>Mon, 12 Mar 2018 02:16:58 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/tags/bulma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iot</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/tags/iot/</link>
+      <pubDate>Wed, 07 Mar 2018 09:17:17 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recycling</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/tags/recycling/</link>
+      <pubDate>Wed, 07 Mar 2018 09:17:17 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/tags/recycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/tags/theme/</link>
+      <pubDate>Mon, 12 Mar 2018 02:16:58 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

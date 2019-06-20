@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Om oss on ABC Lilla Begravningsbyrån</title>
+    <link>https://xn--abclillabegravningsbyrn-58b.se/om-oss/</link>
+    <description>Recent content in Om oss on ABC Lilla Begravningsbyrån</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <managingEditor>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</managingEditor>
+    <webMaster>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</webMaster>
+    <copyright>&amp;copy; ABC Lilla Begravningsbyrån AB 2018, ABC Lilla begravningsbyrån AB, Skönviksvägen 244, 122 42 Enskede, tel 08-648 76 55</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
+    
+	<atom:link href="https://xn--abclillabegravningsbyrn-58b.se/om-oss/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rekommendationer</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/om-oss/rekommendationer/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/om-oss/rekommendationer/</guid>
+      <description>Rekommendationer  Välkommen till oss på ABC Lilla Begravningsbyrån, vi hjälper er med allt inför begravningen.
+Vi hoppas kunna göra begravningen till ett vackert minne av en anhörig eller nära vän, till ett pris som känns rimligt.</description>
+    </item>
+    
+    <item>
+      <title>Brommakontoret vid Brommaplan, Stopvägen 78</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/om-oss/begravningsbyra-bromma-vaesterort-vaellingby/</guid>
+      <description>Brommakontoret vid Brommaplan, Stopvägen 78  Här i Bromma kan du boka möte både dagtid, kvällstid och helger efter överenskommelse.</description>
+    </item>
+    
+  </channel>
+</rss>

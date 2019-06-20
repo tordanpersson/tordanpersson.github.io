@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juridik on ABC Lilla Begravningsbyrån</title>
+    <link>https://xn--abclillabegravningsbyrn-58b.se/juridik/</link>
+    <description>Recent content in Juridik on ABC Lilla Begravningsbyrån</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-SE</language>
+    <managingEditor>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</managingEditor>
+    <webMaster>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</webMaster>
+    <copyright>&amp;copy; ABC Lilla Begravningsbyrån AB 2018, ABC Lilla begravningsbyrån AB, Skönviksvägen 244, 122 42 Enskede, tel 08-648 76 55</copyright>
+    <lastBuildDate>Sat, 03 Mar 2018 09:17:17 -0800</lastBuildDate>
+    
+	<atom:link href="https://xn--abclillabegravningsbyrn-58b.se/juridik/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bouppteckningar</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/juridik/bouppteckningar/</link>
+      <pubDate>Wed, 07 Mar 2018 09:17:17 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/juridik/bouppteckningar/</guid>
+      <description>Bouppteckningar  Vi hjälper dig med bouppteckningar, grundpriset är 5.690 kr. Om det tar längre tid än tre timmar debiteras ytterligare 790 kr i timmen.</description>
+    </item>
+    
+    <item>
+      <title>Testamente</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/juridik/testamente/</link>
+      <pubDate>Tue, 06 Mar 2018 09:17:17 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/juridik/testamente/</guid>
+      <description>Testamente  När någon avlider bildas ett dödsbo som förvaltas av dödsbodelägarna.
+Tillgångarna minus skulderna i dödsboet skall fördelas till arvingarna och då vidtar juridiska processer som kräver skriftlig dokumentation.</description>
+    </item>
+    
+    <item>
+      <title>Min sista vilja</title>
+      <link>https://xn--abclillabegravningsbyrn-58b.se/juridik/min-sista-vilja/</link>
+      <pubDate>Mon, 05 Mar 2018 09:17:17 -0800</pubDate>
+      <author>abcbegravning@gmail.com (ABC Lilla Begravningsbyrån AB)</author>
+      <guid>https://xn--abclillabegravningsbyrn-58b.se/juridik/min-sista-vilja/</guid>
+      <description>Min sista vilja  Här kan du ladda ner min sista vilja, ett dokument som underlättar för dina närmaste vid dit frånfälle.</description>
+    </item>
+    
+  </channel>
+</rss>
